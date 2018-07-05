@@ -1,0 +1,68 @@
+/* font-family*/
+
+p {
+	font-family: Arial;
+}
+h2 {
+	font-family: Sacramento;
+	text-shadow: 4px 4px 4px #aaa;
+}
+h2 {
+	color: red;
+}
+h2:hover {
+	color: green;
+}
+/* font-size*/
+/*
+body {
+	font-size: 10px;
+}*/
+h2 {
+	font-size: 5.0em;
+}
+span {
+	font-size: 2.0em;
+}
+p {
+	font-size: 1em;
+}
+
+/* font-weight*/
+p {
+	font-weight: bold;
+}
+p {
+	color: black;
+}
+p:hover {
+	color: green;
+}
+/* line-height*/
+p {
+	line-height: 1.5;
+}
+/* text-align*/
+h2 {
+	text-align: center;
+}
+
+/* text-decoration*/
+p {
+	text-decoration: underline;
+}
+/*
+h2 {
+	text-decoration: underline;
+}
+*/
+
+
+
+
+
+
+
+
+
+
